@@ -15,7 +15,7 @@ public class VitorWillian
 	    Dev.name = "Willian gomes Vitor";
 	    Dev.age = 24;
 	    Dev.city = "Belo Horizonte | MG";
-	    Dev.Skills = new string[] { "ReactJS", "C#", "NodeJS", "TypeScript", "Docker", "SQL Server", "Power BI", "SSIS"};
+	    Dev.Skills = new string[] { "ReactJS", "C#", "Aspx", "NodeJS", "TypeScript", "Docker", "SQL Server", "Power BI", "SSIS"};
 
 	   return Dev;
 	}
