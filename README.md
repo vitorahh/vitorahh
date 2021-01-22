@@ -1,6 +1,6 @@
 ```Csharp
 	
-public class Perfil
+public class Profile
 {
     public string name { get; set; }
     public int age { get; set; }
@@ -9,9 +9,9 @@ public class Perfil
 }
 public class VitorWillian
 {
-   public Perfil getDev()
+   public Profile getDev()
     {
-      Perfil Dev = new Perfil();
+      Profile Dev = new Profile();
       Dev.name = "Willian gomes Vitor";
       Dev.age = 24;
       Dev.city = "Belo Horizonte | MG";
