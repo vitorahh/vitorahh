@@ -7,7 +7,7 @@ public class Profile
     public string city { get; set; }
     public string[] Skills { get; set; }
 }
-public class VitorWillian
+public class Developer
 {
    public Profile getDevFullstack()
     {
